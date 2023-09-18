@@ -7,9 +7,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=illuminationZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=illuminationZ&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
