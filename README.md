@@ -3,10 +3,28 @@
 - 🔭 I’m currently working on IQURI TECH
 - 🌱 I’m currently learning Javascript, Typescript
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=illuminationZ&show_icons=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=illuminationZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=illuminationZ&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+### ✍️ Dev Quote
+<div style="background-color: #191324; border-radius: 9px; padding: 25px 111px 25px 111px; border: 0.5px solid #fff; display: inline-block;">
+    <p align="center" style="color: #db4282 ; font-size: 18px; font-weight: bold; font-style: italic; font-family: Cursive ">" Don't stop your improve skill!! " </p>
+    <br> <p align="right" style="margin-top:-2rem; font-family: Cursive" >- Makiiz</p>
+</div>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=illuminationZ&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=illuminationZ&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
