@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on IQURI TECH
 - 🌱 I’m currently learning Javascript, Typescript
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=illuminationZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
