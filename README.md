@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IQURI TECH
+- 🔭 I’m currently working on ***
 - 🌱 I’m currently learning Javascript, Typescript
 
 
