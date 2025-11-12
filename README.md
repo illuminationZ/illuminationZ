@@ -9,8 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=illuminationZ&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
 ### ✍️ Dev Quote
 <div style="background-color: #191324; border-radius: 9px; padding: 25px 111px 25px 111px; border: 0.5px solid #fff; display: inline-block;">
     <p align="center" style="color: #db4282 ; font-size: 18px; font-weight: bold; font-style: italic; font-family: Cursive ">" Don't stop your improve skill!! " </p>
