@@ -8,6 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://roadmap.sh/card/tall/6880b7e9d8402b4cbd2fe767?variant=dark)
 
 ### ✍️ Dev Quote
 <div style="background-color: #191324; border-radius: 9px; padding: 25px 111px 25px 111px; border: 0.5px solid #fff; display: inline-block;">
