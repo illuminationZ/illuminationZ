@@ -5,10 +5,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=illuminationZ&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminationZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
+
+# RoadMap Stat:
 ![](https://roadmap.sh/card/tall/6880b7e9d8402b4cbd2fe767?variant=dark)
 
 ### ✍️ Dev Quote
