@@ -15,10 +15,6 @@
     <br> <p align="right" style="margin-top:-2rem; font-family: Cursive" >- Makiiz</p>
 </div>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=illuminationZ&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=illuminationZ&icon=7&color=10)](https://visitcount.itsvg.in)
 
